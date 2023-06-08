@@ -33,9 +33,9 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
 	events and other users to register for events. Developed with CSS, JavaScript, HTML, Bootstrap, and Firebase. 
 	Completed with three other colleagues in 2023, following the SCRUM methodology and using Trello for project management.<br><br>
 	</p>
-	<div style="text-align: center;">
+	 <ul align="center">		
 		<img style="border: 1px black solid; width:40rem;" src="https://i.imgur.com/KaSCc46.png">
-	</div>
+	</ul>
   </li><br><br>
   <li style="list-style-type: none;">
     <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
@@ -45,9 +45,9 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
 	to Angular and Firebase. A beta version was also implemented in Ionic. Developed with two other colleagues in 2023, 
 	utilizing Trello for project management.<br><br>
 	</p>
-	<div style="text-align: center;">
-		<img  style="border: 1px black solid" src="https://i.imgur.com/W1ODZeH.png">
-	</div>
+  <ul align="center">		
+	<img  style="border: 1px black solid" src="https://i.imgur.com/W1ODZeH.png">
+	</ul>
   </li><br><br>
     <li style="list-style-type: none;">
     <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
@@ -55,18 +55,18 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
     An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
 	Developed in Java with a colleague in 2022.<br><br>
 	</p>
-	<div style="text-align: center;">
+  <ul align="center">		
 		<img  style="border: 1px black solid; width:40rem" src="https://i.imgur.com/4QAPNTN.png">
-	</div>
+	</ul>
   </li><br><br>
 	<li style="list-style-type: none;">
     <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	<strong> 💰 Money Calculator Interface</strong><br><br>
     A currency converter interface implemented in Java and Java Swing, following the MVC architectural pattern. Developed in 2022.<br><br>
 	</p>
-	<div style="text-align: center;">
-	<img  style="border: 1px black solid" src="https://i.imgur.com/JHffMKX.png">
-	</div>
+	<ul align="center">		
+		<img  style="border: 1px black solid" src="https://i.imgur.com/JHffMKX.png">
+	</ul>
   </li><br><br>
 </ul>
 
@@ -100,8 +100,8 @@ If you're interested in collaborating on a project or simply want to get in touc
 <img src="https://img.shields.io/badge/email:  Alejandro-%2300acee.svg?color=red&style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
+<br>
+<p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br> 
