@@ -33,8 +33,8 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
   <strong> 🎉 Event Management ULPGC Interface</strong><br><br>
   An interface for event management at ULPGC (University of Las Palmas de Gran Canaria), allowing users to offer 
   events and other users to register for events. Developed with CSS, JavaScript, HTML, Bootstrap, and Firebase. 
-  Completed with <a href="https://github.com/AlbeMR10">@AlbeMR10</a>, <a href="https://github.com/IsaiCordero">@IsaiCordero</a> 
-  and <a href="https://github.com/yabpenserio">@yabpenserio</a> in 2023, following the SCRUM methodology and using Trello for project       management.<br><br>
+  Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
+  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023, following the SCRUM methodology and using Trello for project       management.<br><br>
 </p>
 	
 <ul align="center">		
@@ -52,8 +52,8 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
   An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
   at different stations in Gran Canaria. Initially developed with JavaScript, HTML, CSS, and Bootstrap, later migrated 
   to Angular and Firebase. A beta version was also implemented in Ionic. Developed with
-  <a href="https://github.com/CesarJoseDelgadoSuarez">@CesarJoseDelgadoSuarez</a> 
-  and <a href="https://github.com/o-love">@o-love</a> in 2023, 
+  <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarJoseDelgadoSuarez</a> 
+  and <a href="https://github.com/o-love"  target="_blank">@o-love</a> in 2023, 
   utilizing Trello for project management.<br><br>
 </p>
 	
@@ -70,7 +70,7 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
   <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
   <strong> 🏠 Estate Agency Interface</strong><br><br>
   An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
-  Developed in Java with <a href="https://github.com/juancad">@juancad</a> in 2022.<br><br>
+  Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a> in 2022.<br><br>
 </p>
   
 <ul align="center">		
