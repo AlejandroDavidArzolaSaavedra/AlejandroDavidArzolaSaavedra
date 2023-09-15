@@ -17,7 +17,7 @@ Here, on my GitHub profile, you can see how I've evolved over time and <strong>e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,bootstrap,angular,bash,css,firebase,python,latex,github,html,css,js,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,java,bootstrap,angular,bash,firebase,python,latex,github,html,css,js,linux&perline=14" />
   </a>
 </p>
 
