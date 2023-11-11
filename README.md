@@ -140,11 +140,11 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </li>
 
 <br>
-
+<img align="left" width="200" height="200" src="octoSpace.png?raw=true"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br> 
 	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 08/06/2023
+	Last Edited on: 11/11/2023
 </p>
