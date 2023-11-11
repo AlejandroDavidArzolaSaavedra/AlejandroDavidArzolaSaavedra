@@ -8,8 +8,7 @@
 
 <img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
 <p style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
-I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities.
-Here, on my GitHub profile, you can see how I've evolved over time and <strong>explore my projects</strong>.<br> 
+I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities. 
 
 <div id="user-content-toc">
   <ul>
