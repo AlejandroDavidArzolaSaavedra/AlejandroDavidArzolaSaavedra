@@ -148,7 +148,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 
 <br>
-<img align="left" width="200" height="200" src="octoSpace.png?raw=true"></a>
+<img align="left" width="200" height="200" src="octoSpiritual.png?raw=true"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
