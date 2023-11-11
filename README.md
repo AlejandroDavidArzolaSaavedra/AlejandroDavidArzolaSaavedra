@@ -1,12 +1,23 @@
 <h1 align="center"><b>Welcome to my GitHub profile! </b></h1>
 
-<strong style="font-family: 'Nunito', sans-serif;">Hey! How are you?</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/><br><br>
+<div id="user-content-toc">
+  <ul>
+    <summary style="display: inline-block"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="25">  <h2 style="display: inline-block">Hey! How are you?</h2></summary>
+  </ul>
+</div>
 
+<img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
 <p style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
 I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities.
 Here, on my GitHub profile, you can see how I've evolved over time and <strong>explore my projects</strong>.<br> 
 
-<strong>Take a look and enjoy! Thanks for visiting!</strong></p><br><br>
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting!</h2></summary>
+  </ul>
+</div>
+
+<br><br>
 
 <hr>
 
