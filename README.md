@@ -109,8 +109,9 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </ul>
 
 <hr><br>
-<strong>⚙️ GitHub Analytics</strong>
 
+<strong>⚙️ GitHub Analytics</strong>
+<br>
 <p align="center">
 	<a href="https://github.com/AlejandroDavidArzolaSaavedra">
 		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroDavidArzolaSaavedra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
