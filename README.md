@@ -157,3 +157,8 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 	I look forward to collaborating with you soon!<br><br>
 	Last Edited on: 11/11/2023
 </p>
+
+<br>
+<br>
+
+<img align="left" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/011fc81e-d99c-4806-b1fb-cf6d3833d78d?raw=true"></a>
