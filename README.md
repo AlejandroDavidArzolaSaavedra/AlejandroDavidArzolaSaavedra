@@ -70,7 +70,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </table>                                                                                 
 </div>
 <table>
-<tr>
 <td width="50%">
 <h3 align="center"> 🏠 Estate Agency</h3>
 <div align="center">
@@ -87,7 +86,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <td width="50%">
 <h3 align="center">😸 Pets-Life 🐶</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App/assets/90756437/3dc8b94b-7ed1-4ed4-8c08-c31ce495cef9" width="400" alt="pets life"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App/assets/90756437/3dc8b94b-7ed1-4ed4-8c08-c31ce495cef9" width="400" height="270" alt="pets life"></a>
 <br>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
