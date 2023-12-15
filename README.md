@@ -85,7 +85,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </div>                                                                       
 </td>
 <td width="50%">
-<h3 align="center">😸 Pets-Life App 🐶</h3>
+<h3 align="center">😸 Pets-Life 🐶</h3>
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App/assets/90756437/3dc8b94b-7ed1-4ed4-8c08-c31ce495cef9" width="400" alt="pets life"></a>
 <br>
@@ -94,7 +94,8 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p> Welcome to Pets-Life, the ultimate application for the care of your pets! Pets-Life is a platform dedicated to providing animal daycare services, allowing you to have your beloved pets taken care of and happy while you're busy.</p>
+</p> An interface for the care of your pets! Dedicated to providing animal daycare services, developed with Angular and Firebase. Developed with
+  <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a></p>
 </div>                                                             
 </table>                                                                                 
 </div>
