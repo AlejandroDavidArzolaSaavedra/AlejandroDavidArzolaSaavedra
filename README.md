@@ -51,9 +51,9 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </a>
 </p>
 <p>An interface for event management at ULPGC, allowing users to offer 
-  events and other users to register for events. Developed with CSS, JavaScript, HTML, Bootstrap, and Firebase. 
+  events and other users to register for events. Developed with JavaScript, Firebase and SCRUM. 
   Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
-  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023, following the SCRUM methodology and using Trello for project management.</p>
+  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023.</p>
 </div>                                                                       
 </td>
 <td width="50%">
