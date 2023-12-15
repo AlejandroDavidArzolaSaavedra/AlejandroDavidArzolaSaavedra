@@ -40,7 +40,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
 <div align="center">
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/880010ee-3c28-4b72-9bd6-79e840bca7c1" width="400" height="280" alt="Page ulpgc events"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/880010ee-3c28-4b72-9bd6-79e840bca7c1" width="400" height="285" alt="Page ulpgc events"></a>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
