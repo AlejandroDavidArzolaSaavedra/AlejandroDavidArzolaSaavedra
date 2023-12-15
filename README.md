@@ -40,7 +40,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 
 <table>
-<tr>
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
 <div align="center">
@@ -53,7 +52,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <p>An interface for event management at ULPGC, allowing users to offer 
   events and other users to register for events. Developed with JavaScript, Firebase and SCRUM. 
   Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
-  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023.</p>
+  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.</p>
 </div>                                                                       
 </td>
 <td width="50%">
@@ -68,8 +67,8 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </p>
 </p> An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
   at different stations in Gran Canaria. Initially developed with Angular and Firebase. Developed with
-  <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarJoseDelgadoSuarez</a> 
-  and <a href="https://github.com/o-love"  target="_blank">@o-love</a> in 2023.</p>
+  <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarDelgado</a> 
+  and <a href="https://github.com/o-love"  target="_blank">@o-love</a>.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
