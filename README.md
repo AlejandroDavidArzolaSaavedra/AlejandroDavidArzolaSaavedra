@@ -36,9 +36,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <h2>Interface Designs</h2>
 
-<p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">Here are some interface designs I have worked on:</p>
-
-
 <table>
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
