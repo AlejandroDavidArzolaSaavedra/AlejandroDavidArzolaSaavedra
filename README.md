@@ -37,61 +37,71 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <h2>Interface Designs</h2>
 
 <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">Here are some interface designs I have worked on:</p>
-<ul>
-<li style="list-style-type: none;">
-	
-<p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
-  <strong> 🎉 Event Management ULPGC Interface</strong><br><br>
-  An interface for event management at ULPGC (University of Las Palmas de Gran Canaria), allowing users to offer 
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎉 Event Management ULPGC</h3>
+<div align="center">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/880010ee-3c28-4b72-9bd6-79e840bca7c1" width="400" height="280" alt="Page ulpgc events"></a>
+<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>An interface for event management at ULPGC, allowing users to offer 
   events and other users to register for events. Developed with CSS, JavaScript, HTML, Bootstrap, and Firebase. 
   Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
-  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023, following the SCRUM methodology and using Trello for project       management.<br><br>
+  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a> in 2023, following the SCRUM methodology and using Trello for project management.</p>
+</div>                                                                       
+</td>
+<td width="50%">
+<h3 align="center">🚗 Vehicle Management</h3>
+<div align="center">                                       
+<a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank"><img src="https://i.imgur.com/9kTyuSJ.png" width="400" alt="Vehicule management"></a>
+<br>
+<p>
+<a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-	
-<ul align="center">		
-  <img style="width:60rem"  src="https://i.imgur.com/YXf9ihy.png"><br><br>
-  <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</ul>
-
-</li><br><br>
-  
-<li style="list-style-type: none;">
-  <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
-  <strong> 🚗 Vehicle Management Interface</strong><br><br>
-  An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
-  at different stations in Gran Canaria. Initially developed with JavaScript, HTML, CSS, and Bootstrap, later migrated 
-  to Angular and Firebase. A beta version was also implemented in Ionic. Developed with
+</p> An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
+  at different stations in Gran Canaria. Initially developed with Angular and Firebase. Developed with
   <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarJoseDelgadoSuarez</a> 
-  and <a href="https://github.com/o-love"  target="_blank">@o-love</a> in 2023, 
-  utilizing Trello for project management.<br><br>
+  and <a href="https://github.com/o-love"  target="_blank">@o-love</a> in 2023.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"> 🏠 Estate Agency</h3>
+<div align="center">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/AgenciaInmobiliaria" target="_blank"><img src="https://i.imgur.com/E3uysiO.png" width="400" alt="estate agency"></a>
+<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/AgenciaInmobiliaria" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-	
-<ul align="center">		
-  <img src="https://i.imgur.com/9kTyuSJ.png"><br><br>
-  <a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank">
-  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</ul>
-	
-</li><br><br>
-	
-<li style="list-style-type: none;">
-  <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
-  <strong> 🏠 Estate Agency Interface</strong><br><br>
-  An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
-  Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a> in 2022.<br><br>
+<p>An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
+  Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a> in 2022.</p>
+</div>                                                                       
+</td>
+<td width="50%">
+<h3 align="center">😸 Pets-Life App 🐶</h3>
+<div align="center">                                       
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App/assets/90756437/3dc8b94b-7ed1-4ed4-8c08-c31ce495cef9" width="400" alt="pets life"></a>
+<br>
+<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-  
-<ul align="center">		
-  <img  style="width:40rem" src="https://i.imgur.com/E3uysiO.png"><br><br>			
-  <a href="https://github.com/AlejandroDavidArzolaSaavedra/AgenciaInmobiliaria" target="_blank">
-   <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</ul>
-  
-</li><br><br>
+</p> Welcome to Pets-Life, the ultimate application for the care of your pets! Pets-Life is a platform dedicated to providing animal daycare services, allowing you to have your beloved pets taken care of and happy while you're busy.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
 	
 <li style="list-style-type: none;">
   <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
