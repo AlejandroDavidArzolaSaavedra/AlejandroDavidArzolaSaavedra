@@ -41,7 +41,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%"><br><br>
 <h3 align="center">🎉 Event Management ULPGC</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/880010ee-3c28-4b72-9bd6-79e840bca7c1" width="400" height="280" alt="Page ulpgc events"></a>
