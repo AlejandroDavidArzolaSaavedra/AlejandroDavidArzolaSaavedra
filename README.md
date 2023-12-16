@@ -35,7 +35,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <hr><br>
 
 <h2>Interface Designs</h2>
-
 <table>
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
@@ -43,7 +42,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/880010ee-3c28-4b72-9bd6-79e840bca7c1" width="400" height="285" alt="Page ulpgc events"></a>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>An interface for event management at ULPGC, allowing users to offer 
@@ -59,7 +58,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <br>
 <p>
 <a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p> An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
@@ -67,7 +66,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarDelgado</a> 
   and <a href="https://github.com/o-love"  target="_blank">@o-love</a>.</p>
 </div>                                                             
-</table>                                                                                 
+</table>
 </div>
 <table>
 <td width="50%">
@@ -76,7 +75,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/AgenciaInmobiliaria" target="_blank"><img src="https://i.imgur.com/E3uysiO.png" width="400" alt="estate agency"></a>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/AgenciaInmobiliaria" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
@@ -90,7 +89,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <br>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-87CEFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p> An interface for the care of your pets! Dedicated to providing animal daycare services, developed with Angular and Firebase. Developed with
