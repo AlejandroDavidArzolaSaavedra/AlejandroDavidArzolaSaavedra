@@ -80,7 +80,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </a>
 </p>
 <p>An interface for a real estate agency, allowing users to advertise their properties and contact property owners. 
-  Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a> in 2022.</p>
+  Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a>.</p>
 </div>                                                                       
 </td>
 <td width="50%">
