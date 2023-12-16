@@ -94,7 +94,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </a>
 </p>
 </p> An interface for the care of your pets! Dedicated to providing animal daycare services, developed with Angular and Firebase. Developed with
-  <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a></p>
+  <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8.</a></p>
 </div>                                                             
 </table>                                                                                 
 </div>
