@@ -100,13 +100,12 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </div>                                                             
 </table>                                                                                 
 </div>
-	
+<!--	
 <li style="list-style-type: none;">
   <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
   <strong> 💰 Money Calculator Interface</strong><br><br>
   A currency converter interface implemented in Java and Java Swing, following the MVC architectural pattern. Developed in 2022.<br><br>
   </p>
-
   <ul align="center">
   <img src="https://i.imgur.com/JMbsiOL.png"><br><br>
   <a href="https://github.com/AlejandroDavidArzolaSaavedra/MoneyCalculator" target="_blank">
@@ -115,6 +114,12 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   </ul>
 </li><br><br>
 </ul>
+-->
+
+<h1 align="center"><b>Merry Christmas!!!🎄</b></h1>
+<p align="center">
+	<img width="500" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/70b65597-7123-4a43-a36e-5116b5eab048"/>
+</p>
 
 <hr><br>
 
@@ -156,11 +161,9 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </div>
 
 <br>
-<!--<img align="left" width="200" height="200" src="octoSpiritual.png?raw=true"></a>!--->
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/1df0ac1b-e4ae-4a9b-8df3-25bd7dbb3412"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
-	Merry Christmas!!!🎄<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br> 
 	I look forward to collaborating with you soon!<br><br>
@@ -171,3 +174,4 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <br>
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=AlejandroDavidArzolaSaavedra&title=MultiLanguage,Commits,Repositories,Experience&theme=onedark"></a>
+
