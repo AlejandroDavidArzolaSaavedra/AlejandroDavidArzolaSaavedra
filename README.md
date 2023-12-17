@@ -160,8 +160,9 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   </ul>
 </div>
 
+
 <br>
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/1df0ac1b-e4ae-4a9b-8df3-25bd7dbb3412"></a>
+<img align="left" width="180" height="300" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/d5e13613-ed32-41cf-821e-91dd46fd3b04"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
