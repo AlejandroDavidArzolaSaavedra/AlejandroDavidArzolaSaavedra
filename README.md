@@ -1,4 +1,5 @@
-<h1 align="center"><b>Welcome to my GitHub profile! </b></h1>
+<h1 align="center"><b>Welcome to my GitHub profile! 🎅</b></h1>
+<!--<h1 align="center"><b>Welcome to my GitHub profile! </b></h1>-->
 
 <div id="user-content-toc">
   <ul>
@@ -6,13 +7,15 @@
   </ul>
 </div>
 
-<img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
+
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/f1553d08-02f5-444e-b4e1-fbfeec19df7e"></a>
+<!--<img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>-->
 <p style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
 I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities. 
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting!</h2></summary>
+    <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting! 🦌</h2></summary>
   </ul>
 </div>
 
@@ -152,11 +155,12 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   </ul>
 </div>
 
-
 <br>
-<img align="left" width="200" height="200" src="octoSpiritual.png?raw=true"></a>
+<!--<img align="left" width="200" height="200" src="octoSpiritual.png?raw=true"></a>!--->
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/1df0ac1b-e4ae-4a9b-8df3-25bd7dbb3412"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
+	Merry Christmas!!!🎄<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br> 
 	I look forward to collaborating with you soon!<br><br>
