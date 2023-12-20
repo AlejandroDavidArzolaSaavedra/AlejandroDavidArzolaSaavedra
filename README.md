@@ -113,7 +113,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </a>
 <p>
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>An application for music enthusiasts, enabling users to listen to their favorite songs.
