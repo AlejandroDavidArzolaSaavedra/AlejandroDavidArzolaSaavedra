@@ -31,7 +31,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,bootstrap,angular,bash,firebase,python,latex,github,html,css,js,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,java,bootstrap,angular,bash,firebase,python,latex,github,html,css,js,linux,tensorflow,r,aws,androidstudio,pytorch,arduino,c&perline=10" />
   </a>
 </p>
 
