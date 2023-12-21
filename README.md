@@ -107,8 +107,8 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <div align="center">
 
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-	<img width="200px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
-	<img  width="210px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
+	<img width="170px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
+	<img  width="180px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
 </a>
 <p>
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
