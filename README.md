@@ -123,7 +123,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <h3 align="center">🧠 CNN-CT-BRAIN</h3>
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/160a9625-8f63-49b0-886c-135abc8926a5" witdh="220" height="230" alt="CNN CT BRAIN"></a>
-<br>
+<br><br>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
