@@ -114,7 +114,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>An application for music enthusiasts, enabling users to listen to their favorite songs.
+<p>An application for music enthusiasts, enabling to listen your favorite songs.
   Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
 </div>                                                                       
 </td>
