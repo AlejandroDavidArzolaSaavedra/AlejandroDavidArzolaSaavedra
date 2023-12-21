@@ -105,7 +105,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <td width="50%">
 <h3 align="center"> 🎶 TuneWave</h3>
 <div align="center">
-
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
 	<img width="170px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
 	<img  width="180px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
@@ -119,11 +118,12 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
 </div>                                                                       
 </td>
+
 <td width="50%">
 <h3 align="center">🧠 CNN-CT-BRAIN</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/160a9625-8f63-49b0-886c-135abc8926a5" witdh="230" height="260" alt="CNN CT BRAIN"></a>
-<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="200" height="245" alt="CNN CT BRAIN"></a>
+<p><br>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
 </a>
