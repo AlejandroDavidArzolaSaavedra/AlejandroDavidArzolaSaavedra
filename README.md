@@ -37,7 +37,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <hr><br>
 
-<h2>Interface Designs</h2>
+<h2>Recent Projects</h2>
 <table>
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
@@ -107,9 +107,8 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <div align="center">
 
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-	<img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
-	<img src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
-	<img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/460c68bd-f2e8-4ef1-a31a-4d388d8e1832">
+	<img width="200px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
+	<img  width="210px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
 </a>
 <p>
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
@@ -119,7 +118,20 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 <p>An application for music enthusiasts, enabling users to listen to their favorite songs.
   Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
 </div>                                                                       
-</td>                                                             
+</td>
+<td width="50%">
+<h3 align="center">🧠 CNN-CT-BRAIN</h3>
+<div align="center">                                       
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/160a9625-8f63-49b0-886c-135abc8926a5" witdh="280" height="290" alt="CNN CT BRAIN"></a>
+<br>
+<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
+<img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</p> A deep learning application that achieves brains with cancer, tumors, and aneurysms. Developed with
+  <a href="https://github.com/AndreaSantalos"  target="_blank">@AndreaSantalos</a>.</p>
+</div>
 </table>                                                                                 
 </div>
 
