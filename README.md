@@ -150,7 +150,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </ul>
 -->
 
-<h1 align="center"><b>Merry Christmas!!!🎄</b></h1>
+<h1 align="center"><b>Happy New Year! 🎉</b></h1>
 <p align="center">
 	<img width="500" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/70b65597-7123-4a43-a36e-5116b5eab048"/>
 </p>
