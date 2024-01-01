@@ -1,4 +1,4 @@
-<h1 align="center"><b>Welcome to my GitHub profile! 🥳</b></h1>
+<h1 align="center"><b>Welcome to my GitHub profile!</b></h1>
 
 <div id="user-content-toc">
   <ul>
@@ -7,14 +7,14 @@
 </div>
 
 
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/f1553d08-02f5-444e-b4e1-fbfeec19df7e"></a>
-<!--<img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>-->
+<!--<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/f1553d08-02f5-444e-b4e1-fbfeec19df7e"></a>-->
+<img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
 <p style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
 I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities. 
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting! 🦌</h2></summary>
+    <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting!</h2></summary>
   </ul>
 </div>
 
@@ -148,11 +148,11 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </li><br><br>
 </ul>
 -->
-
+<!--
 <h1 align="center"><b>Happy New Year! 🎉</b></h1>
 <p align="center">
 	<img width="500" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/70b65597-7123-4a43-a36e-5116b5eab048"/>
-</p>
+</p>-->
 
 <hr><br>
 
