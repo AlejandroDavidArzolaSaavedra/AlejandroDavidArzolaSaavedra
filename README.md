@@ -194,13 +194,13 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </div>
 
 <br>
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/6af144ef-196d-42be-b5b0-738df45b84dd"></a>
+<img align="left" width="200" height="200" src="octoSpiritual.png"></a>
 <p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br>
 	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 18/12/2023
+	Last Edited on: 01/01/2024
 </p>
 
 <br>
