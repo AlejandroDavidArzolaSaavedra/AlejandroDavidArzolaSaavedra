@@ -167,10 +167,10 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <br><hr><br>
 
-<p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
+<h4 style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	<strong> 👤 Contact</strong><br><br> 
 	If you're interested in collaborating on a project or simply want to get in touch, you can find me on the following platforms:
-</p>
+</h4>
 
 <br>
 
@@ -195,13 +195,13 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <br>
 <img align="left" width="200" height="200" src="octoSpiritual.png"></a>
-<p style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
+<h4 style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
 	Thanks for visiting my GitHub profile!<br>
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br>
 	I look forward to collaborating with you soon!<br><br>
 	Last Edited on: 01/01/2024
-</p>
+</h4>
 
 <br>
 <br>
