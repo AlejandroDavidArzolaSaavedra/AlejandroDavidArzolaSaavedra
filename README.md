@@ -7,6 +7,7 @@
 </div>
 
 
+
 <!--<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/f1553d08-02f5-444e-b4e1-fbfeec19df7e"></a>-->
 <img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
 <h4 style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
@@ -200,8 +201,10 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br>
 	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 01/01/2024
+	Last Edited on: 14/01/2024
 </h4>
+
+[![](https://api.visitorbadge.io/api/VisitorHit?user=AlejandroDavidArzolaSaavedra&repo=AlejandroDavidArzolaSaavedra&countColor=%237B1E7A)]()
 
 <br>
 <br>
