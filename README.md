@@ -85,11 +85,12 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a>.</p>
 </div>                                                                       
 </td>
+![petsLife]()
 
 <td width="50%">
 <h3 align="center">😸 Pets-Life 🐶</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/b5c598f4-9f53-4409-ae45-b83b99d18ad1" width="400" height="270" alt="pets life"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" height="270" alt="pets life"></a>
 <br>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
