@@ -66,7 +66,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 </p>
 </p> An interface for vehicle management, where clients can perform vehicle maintenance and view gasoline prices 
   at different stations in Gran Canaria. Initially developed with Angular and Firebase. Developed with
-  <a href="https://github.com/CesarJoseDelgadoSuarez"  target="_blank">@CesarDelgado</a> 
+  <a href="https://github.com/cesardes17"  target="_blank">@CesarDelgado</a> 
   and <a href="https://github.com/o-love"  target="_blank">@o-love</a>.</p>
 </div>                                                             
 </table>
