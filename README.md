@@ -85,7 +85,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   Developed in Java with <a href="https://github.com/juancad" target="_blank">@juancad</a>.</p>
 </div>                                                                       
 </td>
-![petsLife]()
 
 <td width="50%">
 <h3 align="center">😸 Pets-Life 🐶</h3>
