@@ -37,8 +37,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   </a>
 </p>
 
-<hr><br>
-
+<hr>
 <h2>Recent Projects</h2>
 <table>
 <td width="50%">
