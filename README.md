@@ -23,8 +23,6 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   </ul>
 </div>-->
 
-<br><br>
-
 <hr>
 
 <div id="user-content-toc">
