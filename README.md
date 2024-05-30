@@ -1,6 +1,7 @@
 <h1 align="center"><b>Welcome to my GitHub profile!</b></h1>
+
 <div width="20px"align="center">
-<img  width="700" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/6aa41fa1-6bc9-4724-8867-d9cbffc88100">
+	<img  width="700" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/6aa41fa1-6bc9-4724-8867-d9cbffc88100">
 </div>
 <!--
 <div id="user-content-toc">
@@ -27,7 +28,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Technologies That I learned‍</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies That I use</h2></summary>
   </ul>
 </div>
 
