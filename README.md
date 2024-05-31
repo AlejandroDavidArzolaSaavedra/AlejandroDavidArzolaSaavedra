@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome to my GitHub profile!</b></h1>
 
 <div width="20px"align="center">
-	<img  width="700" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/6aa41fa1-6bc9-4724-8867-d9cbffc88100">
+	<img  width="700" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/d9426698-964f-438d-8567-5efd1853d8df">
 </div>
 <!--
 <div id="user-content-toc">
