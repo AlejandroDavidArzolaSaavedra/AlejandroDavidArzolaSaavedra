@@ -1,19 +1,16 @@
 <h1 align="center"><b>Welcome to my GitHub profile!</b></h1>
-
+<!--
 <div width="20px"align="center">
 	<img  width="700" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/7f3fdd62-1d09-46f2-8e1c-6a55ff5dc5d9">
 </div>
-<!--
 <div id="user-content-toc">
   <ul>
     <summary style="display: inline-block"><h2 style="display: inline-block">Hey! How are you? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="25"></h2> </summary>
   </ul>
 </div>
-
-
-<!--
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/f1553d08-02f5-444e-b4e1-fbfeec19df7e"></a>-->
-<!--
+
+
 <img align="left" width="200" height="200" src="octocat.gif?raw=true"></a>
 <h4 style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
 I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities. </h4>
@@ -22,7 +19,7 @@ I knew that programming would be my world. I decided to study <strong>🎓comput
   <ul>
     <summary><h2 style="display: inline-block">Take a look and enjoy! Thanks for visiting!</h2></summary>
   </ul>
-</div>-->
+</div>
 
 <hr>
 
