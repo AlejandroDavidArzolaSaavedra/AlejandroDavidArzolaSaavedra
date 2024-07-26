@@ -14,7 +14,7 @@
 <img align="left" width="160" height="160" src="octocat.gif?raw=true"></a>
 
 <h4 style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
-I knew that programming would be my world. I decided to study <strong>🎓computer engineering</strong> to further refine my abilities. </h4>
+I knew that programming would be my world. I decided to study <strong>🎓 computer engineering</strong> to further refine my abilities. </h4>
 
 <div id="user-content-toc">
   <ul>
