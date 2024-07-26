@@ -14,7 +14,7 @@
 <img align="left" width="160" height="160" src="octocat.gif?raw=true"></a>
 
 <h4 style="font-family: 'Nunito', sans-serif;"><strong>I'm Alejandro</strong>, and for years, when my classmates praised my computer skills and <strong>awesome designs</strong>, 
-I knew that programming would be my world. I decided to study <strong>🎓 computer engineering</strong> to further refine my abilities. </h4>
+I knew that programming would be my world. I decided to study <strong>🎓 computer engineering</strong> to further refine my abilities as a Software developer. </h4>
 
 <div id="user-content-toc">
   <ul>
@@ -122,7 +122,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 </td>
 
 <td width="50%">
-<h3 align="center">🧠 CNN-CT-BRAIN</h3><br>
+<h3 align="center">👨‍⚕️ CNN-CT-BRAIN</h3><br>
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN"></a>
 <p><br>
