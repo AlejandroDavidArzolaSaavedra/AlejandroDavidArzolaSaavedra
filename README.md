@@ -203,7 +203,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br>
 	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 09/02/2024
+	Last Edited on: 09/07/2024
 </h4>
 
 [![](https://api.visitorbadge.io/api/VisitorHit?user=AlejandroDavidArzolaSaavedra&repo=AlejandroDavidArzolaSaavedra&countColor=%237B1E7A)]()
