@@ -146,7 +146,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <h3 align="center"> 👩‍💻 DockerLabsClon</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/dockerlabsclon" target="_blank">
-	<img src="https://github.com/user-attachments/assets/5fb2c482-3279-482e-ae72-cb50e90f977e" alt="Docker labs clon">
+	<img src="https://github.com/user-attachments/assets/5fb2c482-3279-482e-ae72-cb50e90f977e" witdh="180" height="210" alt="Docker labs clon">
 </a>
 <p>
 <br>
