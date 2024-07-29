@@ -140,9 +140,40 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 </p> A deep learning application that achieves brains with cancer, tumors, and aneurysms. Developed with
   <a href="https://github.com/AndreaSantalos"  target="_blank">@AndreaSantalos</a>.</p>
 </div>
+</table>
+<table>
+<td width="50%">
+<h3 align="center"> 👩‍💻 DockerLabsClon</h3>
+<div align="center">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/dockerlabsclon" target="_blank">
+	<img src="https://github.com/user-attachments/assets/5fb2c482-3279-482e-ae72-cb50e90f977e" alt="Docker labs clon">
+</a>
+<p>
+<br>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/dockerlabsclon" target="_blank">
+<img src="https://img.shields.io/badge/CODE-orange?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>A clone of the Docker Labs app where users can train in the world of hacking using Docker containers with Javascript, Astro and ViewTransitions API.</p>
+<p> Fast Development Only 1 hour to improve UI/UX</p>
+</div>                                                                       
+</td>
+
+<td width="50%">
+<h3 align="center">🎪 Fest Guest App</h3><br>
+<div align="center">                                       
+<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" height="210" alt="Fest Guest"></a>
+<p><br>
+<a href="https://github.com/marco-nh/FestGuest" target="_blank">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</p> A platform that intermediates with festivals so users can book accommodation and rent transportation, built with JavaScript, Firebase, and SonarQube to maintain good code patterns. Developed with
+  <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a> .</p>
+</div>
 </table>                                                                                 
 </div>
-
+ 
 <!--	
 <li style="list-style-type: none;">
   <p style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
