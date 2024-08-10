@@ -132,11 +132,12 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
-	<img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN">
+	<img src="https://github.com/user-attachments/assets/758edd2e-8caa-426f-919c-a48ee11a4e84" witdh="160" height="235" alt="CNN CT BRAIN">
 </a>
 
-<p>
+ <p>
 <br>
+	
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=CNN-CT-BRAIN">
 </a>
@@ -209,11 +210,9 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <strong>⚙️ GitHub Analytics</strong>
 <br>
 <p align="center">
-	<a href="https://github.com/AlejandroDavidArzolaSaavedra">
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroDavidArzolaSaavedra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroDavidArzolaSaavedra&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-	</a>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroDavidArzolaSaavedra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDavidArzolaSaavedra&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=%20%20%20%20%20%20%20%20%20%20%F0%9F%9A%80%20Top%20%Languages&hide_progress=true" width="375" height="400"/>
 
 <br><hr><br>
 
