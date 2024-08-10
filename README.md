@@ -112,34 +112,34 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 
 <table>
 <td width="50%">
+<h3 align="center"> 🎶 TuneWave</h3>
 <div align="center">
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-	<img src="https://github.com/user-attachments/assets/fc6077b4-6c53-446b-86ff-e2c24577d3f3" alt="estate agency">
+	<img width="170px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
+	<img  width="180px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
 </a>
-
- <p>
-<br>
-	
+<p>
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=Tunewave">
+<img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-	
+</p>
+<p>An application for music enthusiasts, enabling to listen your favorite songs.
+  Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
+</div>                                                                       
 </td>
-
 <td width="50%">
-
+<h3 align="center">👨‍⚕️ CNN-CT-BRAIN</h3><br>
 <div align="center">                                       
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN"></a>
+<p><br>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
-	<img src="https://github.com/user-attachments/assets/758edd2e-8caa-426f-919c-a48ee11a4e84" alt="CNN CT BRAIN">
+<img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
- <p>
-<br>
-	
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=CNN-CT-BRAIN">
-</a>
+</p>
+</p> A deep learning application that achieves brains with cancer, tumors, and aneurysms. Developed with
+  <a href="https://github.com/AndreaSantalos"  target="_blank">@AndreaSantalos</a>.</p>
+</div>
+</table>
 
 <!--
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
