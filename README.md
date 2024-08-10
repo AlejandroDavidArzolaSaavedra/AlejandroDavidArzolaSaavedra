@@ -132,7 +132,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
-	<img src="https://github.com/user-attachments/assets/758edd2e-8caa-426f-919c-a48ee11a4e84" witdh="160" height="235" alt="CNN CT BRAIN">
+	<img src="https://github.com/user-attachments/assets/758edd2e-8caa-426f-919c-a48ee11a4e84" alt="CNN CT BRAIN">
 </a>
 
  <p>
