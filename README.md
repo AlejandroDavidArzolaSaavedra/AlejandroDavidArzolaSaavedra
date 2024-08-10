@@ -207,12 +207,16 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <hr><br>
 
 <strong>⚙️ GitHub Analytics</strong>
-<br>
-<p align="center">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroDavidArzolaSaavedra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDavidArzolaSaavedra&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=%20%20%20%20%20%20%20%20%20%20%F0%9F%9A%80%20Top%20%Languages&hide_progress=true" width="375" height="400"/>
+<br>	
+<p></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDavidArzolaSaavedra&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=%20%20%20%20%20%20%20%20%20%20%F0%9F%9A%80%20Top%20%Languages&hide_progress=true"/>
 
+<br>	
+<p></p>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDavidArzolaSaavedra&rank_icon=github"/>
+</div>
 <br><hr><br>
 
 <h4 style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
