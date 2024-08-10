@@ -112,20 +112,19 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 
 <table>
 <td width="50%">
-<h3 align="center"> 🎶 TuneWave</h3>
 <div align="center">
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-	<img width="170px" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency">
-	<img  width="180px" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency">
+	<img src="https://github.com/user-attachments/assets/fc6077b4-6c53-446b-86ff-e2c24577d3f3" alt="estate agency">
 </a>
-<p>
+
+ <p>
+<br>
+	
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
-<img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=Tunewave">
 </a>
-</p>
-<p>An application for music enthusiasts, enabling to listen your favorite songs.
-  Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
-</div>                                                                       
+
+	
 </td>
 
 <td width="50%">
