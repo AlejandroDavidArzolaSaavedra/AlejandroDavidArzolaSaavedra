@@ -129,14 +129,17 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 </td>
 
 <td width="50%">
-<h3 align="center">👨‍⚕️ CNN-CT-BRAIN</h3><br>
+
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
+	<img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN">
 </a>
 
 <p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=CNN-CT-BRAIN">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=CNN-CT-BRAIN">
+</a>
 
 <!--
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
