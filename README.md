@@ -210,11 +210,15 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <br>	
 <p></p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDavidArzolaSaavedra&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=%20%20%20%20%20%20%20%20%20%20%F0%9F%9A%80%20Top%20%Languages&hide_progress=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDavidArzolaSaavedra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=%20%20%20%20%20%20%20%20%20%20%F0%9F%9A%80%20Top%20%Languages&hide_progress=true&theme=transparent"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroDavidArzolaSaavedra&theme=transparent"/>
+
+
 
 <br>	
 <p></p>
 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroDavidArzolaSaavedra&theme=transparent&exclude=php"/>
  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDavidArzolaSaavedra&rank_icon=github"/>
 </div>
 <br><hr><br>
@@ -252,7 +256,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 	I hope you find my projects interesting and useful.<br>
 	If you have any questions or suggestions, feel free to reach out.<br>
 	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 09/07/2024
+	Last Edited on: 21/09/2024
 </h4>
 
 [![](https://api.visitorbadge.io/api/VisitorHit?user=AlejandroDavidArzolaSaavedra&repo=AlejandroDavidArzolaSaavedra&countColor=%237B1E7A)]()
