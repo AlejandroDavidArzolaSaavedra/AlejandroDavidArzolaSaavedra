@@ -264,5 +264,5 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <br>
 <br>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AlejandroDavidArzolaSaavedra&title=MultiLanguage,Commits,Repositories,Experience&theme=onedark"></a>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AlejandroDavidArzolaSaavedra&title=MultiLanguage,Followers,Commits,Repositories,Experience&theme=onedark"></a>
 
