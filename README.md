@@ -50,7 +50,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <td width="50%">
 <h3 align="center">🎉 Event Management ULPGC</h3>
 <div align="center">
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" height="285" alt="Page ulpgc events"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Page ulpgc events"></a>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -97,7 +97,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <td width="50%">
 <h3 align="center">😸 Pets-Life 🐶</h3>
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" height="270" alt="pets life"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" alt="pets life"></a>
 <br>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
@@ -130,7 +130,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <td width="50%">
 <h3 align="center">👨‍⚕️ CNN-CT-BRAIN</h3><br>
 <div align="center">                                       
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" height="235" alt="CNN CT BRAIN"></a>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" alt="CNN CT BRAIN"></a>
 <p><br>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank">
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
@@ -155,7 +155,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <h3 align="center"> 👩‍💻 DockerLabsClon</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/dockerlabsclon" target="_blank">
-	<img src="https://github.com/user-attachments/assets/5fb2c482-3279-482e-ae72-cb50e90f977e" witdh="200" height="210" alt="Docker labs clon">
+	<img src="https://github.com/user-attachments/assets/5fb2c482-3279-482e-ae72-cb50e90f977e" witdh="200" alt="Docker labs clon">
 </a>
 <p>
 <br>
@@ -171,7 +171,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <td width="50%">
 <h3 align="center">🎪 Fest Guest App</h3><br>
 <div align="center">                                       
-<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" height="200" alt="Fest Guest"></a>
+<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" alt="Fest Guest"></a>
 <p><br>
 <a href="https://github.com/marco-nh/FestGuest" target="_blank">
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
