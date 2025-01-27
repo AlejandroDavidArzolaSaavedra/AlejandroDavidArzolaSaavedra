@@ -219,7 +219,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <p></p>
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroDavidArzolaSaavedra&theme=transparent&exclude=php"/>
- <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDavidArzolaSaavedra&rank_icon=github"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDavidArzolaSaavedra&rank_icon=github&theme=tokyonight"/>
 </div>
 <br><hr><br>
 
