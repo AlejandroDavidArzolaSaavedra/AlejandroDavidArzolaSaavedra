@@ -50,7 +50,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <td width="50%">
 <h3 align="center">🎪 Fest Guest App</h3><br>
 <div align="center">                                       
-<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" alt="Fest Guest"></a>
+<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" height="220" alt="Fest Guest"></a>
 <p><br>
 <a href="https://github.com/marco-nh/FestGuest" target="_blank">
 <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
