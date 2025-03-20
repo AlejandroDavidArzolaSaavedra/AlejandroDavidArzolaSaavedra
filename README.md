@@ -48,21 +48,18 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <h2>Recent Projects</h2>
 <table>
 <td width="50%">
-<h3 align="center">🎉 Event Management ULPGC</h3>
-<div align="center">
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Page ulpgc events"></a>
-<p>
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<h3 align="center">🎪 Fest Guest App</h3><br>
+<div align="center">                                       
+<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" alt="Fest Guest"></a>
+<p><br>
+<a href="https://github.com/marco-nh/FestGuest" target="_blank">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>An interface for event management at ULPGC, allowing users to offer 
-  events and other users to register for events. Developed with JavaScript, Firebase and SCRUM. 
-  Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
-  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.</p>
-</div>                                                                       
-</td>
-<td width="50%">
+</p> A platform that intermediates with festivals so users can book accommodation and rent transportation, built with JavaScript, Firebase, and SonarQube to maintain good code patterns. Developed with
+  <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a> .</p>
+</div> 
+ <td width="50%">
 <h3 align="center">🚗 Vehicle Management</h3>
 <div align="center">                                       
 <a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank"><img src="https://i.imgur.com/9kTyuSJ.png" width="400" alt="Vehicule management"></a>
@@ -168,18 +165,22 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 </div>                                                                       
 </td>
 
+
 <td width="50%">
-<h3 align="center">🎪 Fest Guest App</h3><br>
-<div align="center">                                       
-<a href="https://github.com/marco-nh/FestGuest" target="_blank"><img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" witdh="180" alt="Fest Guest"></a>
-<p><br>
-<a href="https://github.com/marco-nh/FestGuest" target="_blank">
-<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
+<h3 align="center">🎉 Event Management ULPGC</h3>
+<div align="center">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Page ulpgc events"></a>
+<p>
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p> A platform that intermediates with festivals so users can book accommodation and rent transportation, built with JavaScript, Firebase, and SonarQube to maintain good code patterns. Developed with
-  <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a> .</p>
-</div>
+<p>An interface for event management at ULPGC, allowing users to offer 
+  events and other users to register for events. Developed with JavaScript, Firebase and SCRUM. 
+  Completed with <a href="https://github.com/AlbeMR10"  target="_blank" >@AlbeMR10</a>, <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> 
+  and <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.</p>
+</div>                                                                       
+</td>
 </table>                                                                                 
 </div>
  
