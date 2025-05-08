@@ -65,7 +65,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank"><img src="https://i.imgur.com/9kTyuSJ.png" width="400" alt="Vehicule management"></a>
 <br>
 <p>
-<a href="https://github.com/o-love/PWM_44_2_ULPGC" target="_blank">
+<a href="https://github.com/AlejandroDavidArzolaSaavedra/Vehicle-Management-App" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
