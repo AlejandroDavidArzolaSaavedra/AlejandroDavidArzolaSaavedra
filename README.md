@@ -33,7 +33,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,bootstrap,angular,mysql,firebase,python,postgresql,html,css,js,tensorflow,r,aws,typescript,react,rxjs,redux,tailwind,jquery,pytorch&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react,redux,rxjs,tailwind,bootstrap,jquery,java,python,firebase,mysql,postgresql,tensorflow,pytorch,r,aws&perline=10" />
 
    <!-- FUTURO STACK
    https://skillicons.dev/icons?i=git,java,bootstrap,opencv,sklearn,redux,obsidian,astro,figma,cs,dotnet,docker,notion,jquery,kotlin,eclipse,angular,md,ts,netlify,mysql,threejs,postgres,sqlite,pycharm,redhat,react,bash,firebase,tailwind,unity,ubuntu,python,wordpress,vscode,webstorm,windows,latex,github,html,css,js,linux,tensorflow,r,aws,androidstudio,pytorch,arduino,c&perline=10
