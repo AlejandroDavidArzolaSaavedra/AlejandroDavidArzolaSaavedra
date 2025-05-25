@@ -158,7 +158,7 @@ I knew that programming would be my world. I decided to study <strong>🎓 compu
 <img src="https://img.shields.io/badge/CODE-orange?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>A clone of the Docker Labs app where users can train in the world of hacking using Docker containers with Javascript, Astro and ViewTransitions API.</p>
+<p>A clone of the Docker Labs where users can train in the world of hacking using Docker containers with Javascript, Astro and ViewTransitions API.</p>
 <p> Fast Development Only 1 hour to improve UI/UX</p>
 </div>                                                                       
 </td>
