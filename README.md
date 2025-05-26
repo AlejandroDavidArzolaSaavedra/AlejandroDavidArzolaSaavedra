@@ -84,8 +84,8 @@ Desarrollada con React Native, RxJS, Redux, SQLite y Jest.
 <h3 align="center">🎶 TuneWave</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/TuneWave" target="_blank">
-<img width="200px" height="300" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="TuneWave imagen 1">
-<img width="210px" height="310" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="TuneWave imagen 2">
+<img width="150px" height="300" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="TuneWave imagen 1">
+<img width="160px" height="310" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="TuneWave imagen 2">
 </a>
 <p>
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/TuneWave" target="_blank">
