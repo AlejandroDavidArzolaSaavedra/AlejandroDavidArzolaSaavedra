@@ -64,8 +64,8 @@
 <h3 align="center">🔐 DockerLabs</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Vehicle-Management-App" target="_blank">
-<img width="170px" src="https://i.imgur.com/FO9NMBi.png" alt="DockerLabs imagen 1">
-<img width="180px" src="https://i.imgur.com/PUuNVMm.png" alt="DockerLabs imagen 2">
+<img width="120px" src="https://i.imgur.com/FO9NMBi.png" alt="DockerLabs imagen 1">
+<img width="130px" src="https://i.imgur.com/PUuNVMm.png" alt="DockerLabs imagen 2">
 </a>
 <p>
 <a href="https://dockerlabsapp.carrd.co/" target="_blank">
