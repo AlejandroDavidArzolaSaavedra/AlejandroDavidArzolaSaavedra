@@ -44,9 +44,9 @@
 
 <h3>Testing, IA y Cloud</h3>
 
-|                     Jest                     |                       Python                       |                       PyTorch                      |                     AWS                    |
-| :------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :----------------------------------------: |
-| ![Jest](https://skillicons.dev/icons?i=jest) | ![PyTorch](https://skillicons.dev/icons?i=python)  | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![AWS](https://skillicons.dev/icons?i=aws) |
+|                     Jest                     |                       Python                       |                       PyTorch                      |                     AWS                    |                       Supabase                       |
+| :------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :----------------------------------------: |  :-------------------------------------------------: |
+| ![Jest](https://skillicons.dev/icons?i=jest) | ![PyTorch](https://skillicons.dev/icons?i=python)  | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![AWS](https://skillicons.dev/icons?i=aws) | ![supabase](https://skillicons.dev/icons?i=supabase) |
 
 
 
