@@ -56,52 +56,15 @@
 
 <hr>
 
-<h2>Proyectos de aplicaciones móviles</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🔐 DockerLabs</h3>
-<div align="center">
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/Vehicle-Management-App" target="_blank">
-<img width="120px" src="https://i.imgur.com/FO9NMBi.png" alt="DockerLabs imagen 1">
-<img width="130px" src="https://i.imgur.com/PUuNVMm.png" alt="DockerLabs imagen 2">
-</a>
-<p>
-<a href="https://dockerlabsapp.carrd.co/" target="_blank">
-<img src="https://img.shields.io/badge/Teaser-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge">
-</a>
-</p>
-<p>
-Aplicación para entusiastas de la ciberseguridad que permite registrar y organizar las máquinas resueltas en DockerLabs.  
-Incluye gestión de apuntes con técnica Pomodoro.  
-Desarrollada con React Native, RxJS, Redux, SQLite y Jest.
-</p>
-</div>
-</td>
+## 🚀Apps 
 
-<td width="50%" valign="top">
-<h3 align="center">🎶 TuneWave</h3>
-<div align="center">
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/TuneWave" target="_blank">
-<img width="150px" height="250" src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="TuneWave imagen 1">
-<img width="160px" height="260" src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="TuneWave imagen 2">
-</a>
-<p>
-<a href="https://github.com/AlejandroDavidArzolaSaavedra/TuneWave" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-purple?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-</a>
-</p>
-<p>
-Aplicación para amantes de la música que permite escuchar las canciones más populares del momento mediante la API de Spotify.  
-Desarrollada para Android utilizando Firebase, Dagger Hilt, Kotlin y arquitectura MVVM.  
-Proyecto en equipo con <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.
-</p>
-</div>
-</td>
-    
-</tr>
-</table>
+| Proyecto | Vista Previa |
+|----------|--------------|
+| **VideoNotes App**<br>Convierte videos de YouTube en documentos PDF/HTML a partir de sus subtítulos. Permite gestionar múltiples URLs, visualizar y compartir los subtítulos, y generar resúmenes automáticos con IA (LLM).<br><br>**Tech:** React Native · Supabase · PostgreSQL · Edge Functions · LLM · Clean Architecture<br><br>[🎬 Teaser](https://videonotes.carrd.co/) | <img src="https://i.imgur.com/FZt3MDe.png" width="220"> |
+| **DockerLabs App**<br>App para registrar y organizar máquinas resueltas en DockerLabs. Incluye apuntes con técnica Pomodoro.<br><br>**Tech:** React Native · RxJS · Redux · SQLite · Jest<br><br> [🎬 Teaser](https://dockerlabsapp.carrd.co/) | <img src="https://i.imgur.com/FO9NMBi.png" width="220"> |
+| **TuneWave**<br>App para amantes de la música. Reproduce las canciones más populares. Arquitectura moderna.<br><br>**Tech:** Spotify API · Firebase · Dagger Hilt · Kotlin · MVVM<br><br>Colaboración con [@AnaSantana016](https://github.com/AnaSantana016)<br>[🔗 Repositorio](https://github.com/AlejandroDavidArzolaSaavedra/TuneWave) | <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" width="220"> |
+
 
 <hr>
 
