@@ -38,15 +38,15 @@
 
 <h3>Back</h3>
 
-|       PostgreSQL       |       Firebase       |        SQLite        |        MySQL        |
-|:---------------------:|:-------------------:|:--------------------:|:-------------------:|
-| ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+|       PostgreSQL       |       Firebase       |        SQLite        |        MySQL        |                       Supabase                       |
+|:---------------------:|:-------------------:|:--------------------:|:-------------------:| :-------------------------------------------------: |
+| ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![supabase](https://skillicons.dev/icons?i=supabase) |
 
 <h3>Testing, IA y Cloud</h3>
 
-|                     Jest                     |                       Python                       |                       PyTorch                      |                     AWS                    |                       Supabase                       |
-| :------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :----------------------------------------: |  :-------------------------------------------------: |
-| ![Jest](https://skillicons.dev/icons?i=jest) | ![PyTorch](https://skillicons.dev/icons?i=python)  | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![AWS](https://skillicons.dev/icons?i=aws) | ![supabase](https://skillicons.dev/icons?i=supabase) |
+|                     Jest                     |                       Python                       |                       PyTorch                      |                     AWS                    | 
+| :------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :----------------------------------------: | 
+| ![Jest](https://skillicons.dev/icons?i=jest) | ![PyTorch](https://skillicons.dev/icons?i=python)  | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![AWS](https://skillicons.dev/icons?i=aws) |
 
 
 
