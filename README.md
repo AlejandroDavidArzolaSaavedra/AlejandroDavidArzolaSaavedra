@@ -57,7 +57,7 @@
 <hr>
 
 
-## 🚀Apps 
+## Apps 
 
 | Proyecto | Vista previa |
 | -------- | ----------- |
