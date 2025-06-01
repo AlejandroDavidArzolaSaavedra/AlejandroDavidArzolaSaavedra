@@ -61,9 +61,9 @@
 
 | Proyecto | Vista Previa |
 |----------|--------------|
-| **VideoNotes App**<br>Convierte videos de YouTube en documentos PDF/HTML a partir de sus subtítulos. Permite gestionar múltiples URLs, visualizar y compartir los subtítulos, y generar resúmenes automáticos con IA (LLM).<br><br>**Tech:** React Native · Supabase · PostgreSQL · Edge Functions · LLM · Clean Architecture<br><br>[🎬 Teaser](https://videonotes.carrd.co/) | <img src="https://i.imgur.com/FZt3MDe.png" width="310" height="330"> |
-| **DockerLabs App**<br>App para registrar y organizar máquinas resueltas en DockerLabs. Incluye apuntes con técnica Pomodoro.<br><br>**Tech:** React Native · RxJS · Redux · SQLite · Jest<br><br> [🎬 Teaser](https://dockerlabsapp.carrd.co/) | <img src="https://i.imgur.com/FO9NMBi.png" width="310" height="330"> |
-| **TuneWave**<br>App para amantes de la música. Reproduce las canciones más populares. Arquitectura moderna.<br><br>**Tech:** Spotify API · Firebase · Dagger Hilt · Kotlin · MVVM<br><br>Colaboración con [@AnaSantana016](https://github.com/AnaSantana016)<br>[🔗 Repositorio](https://github.com/AlejandroDavidArzolaSaavedra/TuneWave) | <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" width="310" height="330"> |
+| **VideoNotes App**<br>Convierte videos de YouTube en documentos PDF/HTML a partir de sus subtítulos. Permite gestionar múltiples URLs, visualizar y compartir los subtítulos, y generar resúmenes automáticos con IA (LLM).<br><br>**Tech:** React Native · Supabase · PostgreSQL · Edge Functions · LLM · Clean Architecture<br><br>[🎬 Teaser](https://videonotes.carrd.co/) | <img src="https://i.imgur.com/FZt3MDe.png" width="320" height="330"> |
+| **DockerLabs App**<br>App para registrar y organizar máquinas resueltas en DockerLabs. Incluye apuntes con técnica Pomodoro.<br><br>**Tech:** React Native · RxJS · Redux · SQLite · Jest<br><br> [🎬 Teaser](https://dockerlabsapp.carrd.co/) | <img src="https://i.imgur.com/FO9NMBi.png" width="320" height="330"> |
+| **TuneWave**<br>App para amantes de la música. Reproduce las canciones más populares. Arquitectura moderna.<br><br>**Tech:** Spotify API · Firebase · Dagger Hilt · Kotlin · MVVM<br><br>Colaboración con [@AnaSantana016](https://github.com/AnaSantana016)<br>[🔗 Repositorio](https://github.com/AlejandroDavidArzolaSaavedra/TuneWave) | <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" width="320" height="330"> |
 
 
 <hr>
@@ -220,8 +220,8 @@
 <br><hr><br>
 
 <h4 style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
-	<strong> 👤 Contact</strong><br><br> 
-	If you're interested in collaborating on a project or simply want to get in touch, you can find me on the following platforms:
+	<strong> 👤 Contacto</strong><br><br> 
+	Si estás interesado en colaborar en un proyecto o simplemente quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
 </h4>
 
 <br>
@@ -248,12 +248,13 @@
 <br>
 <img align="left" width="200" height="200" src="octoSpiritual.png"></a>
 <h4 style="line-height: 1.5; font-family: 'Nunito', sans-serif;">
-	Thanks for visiting my GitHub profile!<br>
-	I hope you find my projects interesting and useful.<br>
-	If you have any questions or suggestions, feel free to reach out.<br>
-	I look forward to collaborating with you soon!<br><br>
-	Last Edited on: 21/04/2025
+	¡Gracias por visitar mi perfil de GitHub!<br>
+	Espero que mis proyectos te resulten interesantes y útiles.<br>
+	Si tienes alguna pregunta o sugerencia, no dudes en contactarme.<br>
+	¡Espero contactar contigo pronto!<br><br>
+	Última edición: 21/04/2025
 </h4>
+
 
 [![](https://api.visitorbadge.io/api/VisitorHit?user=AlejandroDavidArzolaSaavedra&repo=AlejandroDavidArzolaSaavedra&countColor=%237B1E7A)]()
 
