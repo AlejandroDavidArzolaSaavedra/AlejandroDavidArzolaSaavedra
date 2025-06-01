@@ -61,9 +61,9 @@
 
 | Proyecto | Vista Previa |
 |----------|--------------|
-| **VideoNotes App**<br>Convierte videos de YouTube en documentos PDF/HTML a partir de sus subtítulos. <br>Permite visualizar y compartir los subtítulos, y generar resúmenes con IA (LLM).<br><br>**Tech:** React Native · Supabase · PostgreSQL · Edge Functions · LLM · Clean Architecture<br><br>[🎬 Teaser](https://videonotes.carrd.co/) | <img src="https://i.imgur.com/FZt3MDe.png" width="240" height="330"> |
-| **DockerLabs App**<br>App para registrar y organizar máquinas resueltas en DockerLabs.<br> Incluye apuntes con técnica Pomodoro.<br><br>**Tech:** React Native · RxJS · Redux · SQLite · Jest<br><br> [🎬 Teaser](https://dockerlabsapp.carrd.co/) | <img src="https://i.imgur.com/FO9NMBi.png" width="240" height="330"> |
-| **TuneWave**<br>App para amantes de la música. Reproduce las canciones más populares.<br><br>**Tech:** Spotify API · Firebase · Dagger Hilt · Kotlin · MVVM<br><br>Colaboración con [@AnaSantana016](https://github.com/AnaSantana016)<br>[🔗 Repositorio](https://github.com/AlejandroDavidArzolaSaavedra/TuneWave) | <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" width="280" height="330"> |
+| **VideoNotes App**<br>Convierte videos de YouTube en documentos PDF/HTML a partir de sus subtítulos. <br>Permite visualizar y compartir los subtítulos, y generar resúmenes con IA (LLM).<br><br>**Tech:** React Native · Supabase · PostgreSQL · Edge Functions · LLM · Clean Architecture<br><br>[🎬 Teaser](https://videonotes.carrd.co/) | <img src="https://i.imgur.com/FZt3MDe.png" height="330"> |
+| **DockerLabs App**<br>App para registrar y organizar máquinas resueltas en DockerLabs.<br> Incluye apuntes con técnica Pomodoro.<br><br>**Tech:** React Native · RxJS · Redux · SQLite · Jest<br><br> [🎬 Teaser](https://dockerlabsapp.carrd.co/) | <img src="https://i.imgur.com/FO9NMBi.png" height="330"> |
+| **TuneWave**<br>App para amantes de la música. Reproduce las canciones más populares.<br><br>**Tech:** Spotify API · Firebase · Dagger Hilt · Kotlin · MVVM<br><br>Colaboración con [@AnaSantana016](https://github.com/AnaSantana016)<br>[🔗 Repositorio](https://github.com/AlejandroDavidArzolaSaavedra/TuneWave) | <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" height="330"> |
 
 
 <hr>
