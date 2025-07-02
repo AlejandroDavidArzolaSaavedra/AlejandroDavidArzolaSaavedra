@@ -94,6 +94,45 @@
       </p>
     </div> 
   </td>
+  <td width="50%">
+    <h3 align="center">😸 Pets-Life 🐶</h3>
+    <div align="center">                                       
+      <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
+        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" alt="Pets Life">
+      </a>
+      <br>
+      <p>
+        <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-87CEFA?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>¡Una interfaz para el cuidado de tus mascotas! Dedicada a ofrecer servicios de guardería animal, desarrollada con Angular y Firebase. Se desarrolló mientras enseñaba las bases de la programación, actuando como profesor. Desarrollada junto a 
+        <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a>.
+      </p>
+    </div>                                                             
+  </td>
+</table>
+
+<hr>
+<table>
+<td width="50%">
+    <h3 align="center">🎉 Gestión de Eventos ULPGC</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
+        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Página eventos ULPGC">
+      </a>
+      <p>
+        <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Una interfaz para la gestión de eventos en la ULPGC, que permite a los usuarios ofrecer eventos y a otros registrarse. Desarrollada con JavaScript, Firebase y la metodología SCRUM. Completada junto a 
+        <a href="https://github.com/AlbeMR10"  target="_blank">@AlbeMR10</a>, 
+        <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> y 
+        <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.
+      </p>
+    </div>                                                                       
+  </td>
 
   <td width="50%">
     <h3 align="center">🚗 Gestión de Vehículos</h3>
@@ -115,48 +154,6 @@
   </td>
 </table>
 
-<br>
-
-<table>
-  <td width="50%">
-    <h3 align="center">🎉 Gestión de Eventos ULPGC</h3>
-    <div align="center">
-      <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Página eventos ULPGC">
-      </a>
-      <p>
-        <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>Una interfaz para la gestión de eventos en la ULPGC, que permite a los usuarios ofrecer eventos y a otros registrarse. Desarrollada con JavaScript, Firebase y la metodología SCRUM. Completada junto a 
-        <a href="https://github.com/AlbeMR10"  target="_blank">@AlbeMR10</a>, 
-        <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> y 
-        <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.
-      </p>
-    </div>                                                                       
-  </td>
-
-  <td width="50%">
-    <h3 align="center">😸 Pets-Life 🐶</h3>
-    <div align="center">                                       
-      <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
-        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" alt="Pets Life">
-      </a>
-      <br>
-      <p>
-        <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-87CEFA?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>¡Una interfaz para el cuidado de tus mascotas! Dedicada a ofrecer servicios de guardería animal, desarrollada con Angular y Firebase. Se desarrolló mientras enseñaba las bases de la programación, actuando como profesor. Desarrollada junto a 
-        <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a>.
-      </p>
-    </div>                                                             
-  </td>
-</table>
-
-<hr>
 
 <!--
 <h2>Proyectos IA</h2>
