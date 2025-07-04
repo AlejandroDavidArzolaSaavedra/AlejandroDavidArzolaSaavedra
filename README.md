@@ -94,11 +94,30 @@
       </p>
     </div> 
   </td>
+<td width="50%">
+    <h3 align="center">⚽ Merkato Kings</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroDavidArzolaSaavedra/Kings-Mercato" target="_blank">
+        <img src="https://i.imgur.com/qrXMuLA.png" width="400"  alt="Página eventos ULPGC">
+      </a>
+      <p>
+        <a href="https://github.com/AlejandroDavidArzolaSaavedra/Kings-Mercato" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Mercato Kings es un dashboard interactivo impulsado por IA que ofrece estadísticas avanzadas de la Kings League, incluyendo análisis estadístico de IA por jugador, goles, penaltis, tiros, pases, tarjetas y más indicadores clave. Desarrollada con JavaScript, Tailwind, ECharts, PapaParse, ml5.js, TensorflowJS. 
+      </p>
+    </div>                                                                       
+  </td>
+</table>
+
+<hr>
+<table>
   <td width="50%">
     <h3 align="center">😸 Pets-Life 🐶</h3>
     <div align="center">                                       
       <a href="https://github.com/AlejandroDavidArzolaSaavedra/Pets-Life-App" target="_blank">
-        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="400" alt="Pets Life">
+        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/2d253c15-afd5-49bb-9cd7-e6dd06181aa0" width="450" alt="Pets Life">
       </a>
       <br>
       <p>
@@ -110,28 +129,6 @@
         <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a>.
       </p>
     </div>                                                             
-  </td>
-</table>
-
-<hr>
-<table>
-<td width="50%">
-    <h3 align="center">🎉 Gestión de Eventos ULPGC</h3>
-    <div align="center">
-      <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-        <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/ae345cf1-ef74-42f3-9c95-4aa200596f77" width="400" alt="Página eventos ULPGC">
-      </a>
-      <p>
-        <a href="https://github.com/AlejandroDavidArzolaSaavedra/SCRUM_ULPGC_EVENTS_Grupo13" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>Una interfaz para la gestión de eventos en la ULPGC, que permite a los usuarios ofrecer eventos y a otros registrarse. Desarrollada con JavaScript, Firebase y la metodología SCRUM. Completada junto a 
-        <a href="https://github.com/AlbeMR10"  target="_blank">@AlbeMR10</a>, 
-        <a href="https://github.com/IsaiCordero"  target="_blank">@IsaiCordero</a> y 
-        <a href="https://github.com/yabpenserio"  target="_blank">@yabpenserio</a>.
-      </p>
-    </div>                                                                       
   </td>
 
   <td width="50%">
@@ -155,28 +152,26 @@
 </table>
 
 
-<!--
 <h2>Proyectos IA</h2>
 
 
 <table>
 <td width="50%">
-<h3 align="center"> Reconocimiento Facial con IA</h3>
+<h3 align="center">🫡 Reconocimiento Facial con IA</h3>
 <div align="center">
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/Face-Recognition-IA" target="_blank">
-	<img  src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency"
+	<img  src="https://i.imgur.com/IfRMUZp.jpeg" width="300" alt="face-recognition"
 </a>
 <p>
 <a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
 <img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>An application for music enthusiasts, enabling to listen your favorite songs.
-  Developed in Android with <a href="https://github.com/AnaSantana016" target="_blank">@AnaSantana016</a>.</p>
+<p>Aplicación de reconocimiento facial desarrollada con métodos de inteligencia artificial evolutiva. Utiliza Python, SciPy, OpenCV y MySQL para almacenar las características faciales (embeddings) de los usuarios. El sistema permite reconocer múltiples personas simultáneamente de manera eficiente y precisa. Desarrollado con <a href="https://github.com/HeliotGonzalez" target="_blank">@HeliotGonzalez</a>.</p>
 </div>                                                                       
 </td>
 <td width="50%">
-<h3 align="center">👨‍⚕️ CNN-CT-BRAIN</h3><br>
+<h3 align="center">👨‍⚕ Detección de Enfermedades Cerebrales con IA</h3><br>
 <div align="center">                                       
 <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/547eaf0f-7fea-43a2-a1f2-33d2daa9994f" witdh="160" alt="CNN CT BRAIN"></a>
 <p><br>
@@ -184,8 +179,8 @@
 <img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p> A deep learning application that achieves brains with cancer, tumors, and aneurysms. Developed with
-  <a href="https://github.com/AndreaSantalos"  target="_blank">@AndreaSantalos</a>.</p>
+</p> A partir de diferentes técnicas de deep learning detectamos a partir de tomografias, si son cerebros con cáncer, tumores y aneurismas.
+Las técnologias usadas fueron Python utilizando TensorFlow, scikit-learn, pandas, NumPy, OpenCV, Seaborn y Matplotlib. Desarrollada junto a<a href="https://github.com/AndreaSantalos"  target="_blank">@AndreaSantalos</a>.</p>
 </div>
 </table>
 
