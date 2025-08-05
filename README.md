@@ -257,5 +257,5 @@ Las técnologias usadas fueron Python utilizando TensorFlow, scikit-learn, panda
 <br>
 <br>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AlejandroDavidArzolaSaavedra&title=MultiLanguage,Followers,Commits,Repositories,Experience&theme=onedark"></a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=AlejandroDavidArzolaSaavedra&title=MultiLanguage,Followers,Commits,Repositories,Experience&theme=onedark"/>
