@@ -240,13 +240,7 @@ Las técnologias usadas fueron Python utilizando TensorFlow, scikit-learn, panda
 <br>
 <br>
 
-<div id="user-content-toc">
-  <ul>
-	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandrodas15perfecto%40gmail.com"d" target="_blank">
-		<img src="https://img.shields.io/badge/Mi correo-%2300acee.svg?color=red&style=for-the-badge&logoColor=white" alt=mail style="margin-bottom: 5px;"/>
-	</a>
-  </ul>
-</div>
+
 
 <br>
 <img align="left" width="200" height="200" src="octoSpiritual.png"></a>
