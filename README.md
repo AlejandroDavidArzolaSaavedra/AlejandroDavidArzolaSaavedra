@@ -227,18 +227,7 @@ Las técnologias usadas fueron Python utilizando TensorFlow, scikit-learn, panda
 </div>
 <br><hr><br>
 
-<h4 style="margin-top: 2rem; line-height: 1.5; font-family: 'Nunito', sans-serif;">
-	<strong> 👤 Contacto</strong><br><br> 
-	Si estás interesado en colaborar en un proyecto o simplemente quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
-</h4>
 
-<br>
-
-</div>
-
-
-<br>
-<br>
 
 
 
