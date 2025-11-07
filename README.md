@@ -11,6 +11,14 @@
   Recientemente me apasioné por el <strong>desarrollo móvil</strong> con <strong>React Native</strong>. Me encanta crear aplicaciones que la gente disfrute usar y que les hagan la vida más fácil.
 </p>
 
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/Mi%20LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-david-arzola-saavedra-867150144/) [![Correo](https://img.shields.io/badge/Mi%20correo-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrodas15perfecto@gmail.com)
+
+</div>
+
+
+
 <hr>
 
 <figure>
@@ -227,12 +235,7 @@ Las técnologias usadas fueron Python utilizando TensorFlow, scikit-learn, panda
 <br>
 
 </div>
-	</ul>
-	<a href="https://www.linkedin.com/in/alejandro-david-arzola-saavedra-867150144/" target="_blank">
-		<img src="https://img.shields.io/badge/Mi Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-	</a>
-  </ul>
-</div>
+
 
 <br>
 <br>
