@@ -13,6 +13,10 @@
 
 <hr>
 
+<figure>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroDavidArzolaSaavedra&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night&days=7"/>
+</figure>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary>
