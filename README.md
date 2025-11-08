@@ -88,10 +88,10 @@
 
 <table>
   <td width="50%">
-    <h3 align="center">🎪 Fest Guest App</h3><br>
+    <h3 align="center">🎪 Fest Guest App</h3>
     <div align="center">                                       
       <a href="https://github.com/AlejandroDavidArzolaSaavedra/FestGuest" target="_blank">
-        <img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" height="200" alt="Fest Guest">
+        <img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" height="200" width="400" alt="Fest Guest">
       </a>
       <p>
         <a href="https://github.com/AlejandroDavidArzolaSaavedra/FestGuest" target="_blank">
@@ -104,7 +104,7 @@
     <h3 align="center">⚽ Merkato Kings</h3>
     <div align="center">
       <a href="https://github.com/AlejandroDavidArzolaSaavedra/Kings-Mercato" target="_blank">
-        <img src="https://i.imgur.com/qrXMuLA.png" width="400"  alt="Página eventos ULPGC">
+        <img src="https://i.imgur.com/qrXMuLA.png" width="400" height="200"   alt="Página eventos ULPGC">
       </a>
       <p>
         <a href="https://github.com/AlejandroDavidArzolaSaavedra/Kings-Mercato" target="_blank">
