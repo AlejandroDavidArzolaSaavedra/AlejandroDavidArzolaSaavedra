@@ -93,18 +93,11 @@
       <a href="https://github.com/AlejandroDavidArzolaSaavedra/FestGuest" target="_blank">
         <img src="https://github.com/user-attachments/assets/601d3b1a-7a9c-4b26-b1d3-e8894e205219" height="200" alt="Fest Guest">
       </a>
-      <p><br>
+      <p>
         <a href="https://github.com/AlejandroDavidArzolaSaavedra/FestGuest" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
+          <div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=FestGuest"></div>
         </a>
-      </p>
-    	<div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=FestGuest"></div>  
-		<p>Desarrollada junto a
-	        <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, 
-	        <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, 
-	        <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y 
-	        <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a>.
-	    </p>
+	  </p>  
     </div> 
   </td>
 <td width="50%">
@@ -115,10 +108,9 @@
       </a>
       <p>
         <a href="https://github.com/AlejandroDavidArzolaSaavedra/Kings-Mercato" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=Kings-Mercato"></div>
         </a>
       </p>
-      <div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=Kings-Mercato"></div>
     </div>                                                                       
   </td>
 </table>
