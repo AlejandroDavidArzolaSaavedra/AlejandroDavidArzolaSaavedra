@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Bienvenido a mi perfil de GitHub!</b></h1>
+f<h1 align="center"><b>¡Bienvenido a mi perfil de GitHub!</b></h1>
 
 <img align="left" width="160" height="160" src="octocat.gif?raw=true"></a>
 
@@ -165,7 +165,7 @@
 	<img  src="https://i.imgur.com/IfRMUZp.jpeg" width="300" alt="face-recognition"
 </a>
 <p>
-<a href="https://github.com/AnaSantana016/TuneWave" target="_blank">
+<a href="https://github.com/AnaSantana016/TuneWave-Android" target="_blank">
 <img src="https://img.shields.io/badge/CODE-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
