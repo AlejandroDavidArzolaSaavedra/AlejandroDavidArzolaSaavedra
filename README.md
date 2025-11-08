@@ -98,12 +98,13 @@
           <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>Una plataforma que intermedia con festivales para que los usuarios puedan reservar alojamiento y alquilar transporte. Desarrollada con JavaScript, Firebase y SonarQube para mantener buenas prácticas de código. Desarrollada junto a
-        <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, 
-        <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, 
-        <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y 
-        <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a>.
-      </p>
+    	<div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=FestGuest"></div>  
+		<p>Desarrollada junto a
+	        <a href="https://github.com/DavidDenoia"  target="_blank">@DavidDenoia</a>, 
+	        <a href="https://github.com/Roichu5k"  target="_blank">@Roi</a>, 
+	        <a href="https://github.com/marco-nh"  target="_blank">@MarcoNH</a> y 
+	        <a href="https://github.com/user-nizan"  target="_blank">@Nizan</a>.
+	    </p>
     </div> 
   </td>
 <td width="50%">
@@ -117,8 +118,7 @@
           <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p>Mercato Kings es un dashboard interactivo impulsado por IA que ofrece estadísticas avanzadas de la Kings League, incluyendo análisis estadístico de IA por jugador, goles, penaltis, tiros, pases, tarjetas y más indicadores clave. Desarrollada con JavaScript, Tailwind, ECharts, PapaParse, ml5.js, TensorflowJS. 
-      </p>
+      <div align="center"><img width="150%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroDavidArzolaSaavedra&repo=Kings-Mercato"></div>
     </div>                                                                       
   </td>
 </table>
@@ -137,9 +137,7 @@
           <img src="https://img.shields.io/badge/CODE-87CEFA?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p>¡Una interfaz para el cuidado de tus mascotas! Dedicada a ofrecer servicios de guardería animal, desarrollada con Angular y Firebase. Se desarrolló mientras enseñaba las bases de la programación, actuando como profesor. Desarrollada junto a 
-        <a href="https://github.com/Raamonvm8"  target="_blank">@Raamonvm8</a>.
-      </p>
+     	¡Una interfaz para el cuidado de tus mascotas! Dedicada a ofrecer servicios de guardería animal, desarrollada con Angular y Firebase. Se desarrolló mientras enseñaba las bases de la programación, actuando como profesor. Desarrollada junto a @Raamonvm8.
     </div>                                                             
   </td>
 
