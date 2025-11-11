@@ -1,4 +1,4 @@
-f<h1 align="center"><b>¡Bienvenido a mi perfil de GitHub!</b></h1>
+<h1 align="center"><b>¡Bienvenido a mi perfil de GitHub!</b></h1>
 
 <img align="left" width="160" height="160" src="octocat.gif?raw=true"></a>
 
