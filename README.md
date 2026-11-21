@@ -7,8 +7,7 @@
   supe que la programación sería mi mundo.  
 
   Decidí estudiar <strong>ingeniería informática</strong> para perfeccionar aún más mis habilidades como desarrollador de software.  
-
-  Recientemente me apasioné por el <strong>desarrollo móvil</strong> con <strong>React Native</strong>. Me encanta crear aplicaciones que la gente disfrute usar y que les hagan la vida más fácil.
+  
 </p>
 
 <div align="right">
